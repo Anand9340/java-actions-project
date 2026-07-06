@@ -17,7 +17,7 @@ public class App {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn With Kastro | GitHub Actions + Kubernetes Masterclass</title>
+    <title>Learn With DevOps Academy | GitHub Actions + Kubernetes Masterclass Masterclass</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * { 
@@ -734,7 +734,7 @@ public class App {
         </div>
         
         <div class="title-container">
-            <h1>GitHub Actions + Kubernetes</h1>
+            <h1>GitHub Actions + Kubernetes Masterclass</h1>
         </div>
         
         <p class="hero-subtitle">
@@ -749,7 +749,7 @@ public class App {
                 </div>
                 <div class="date-content">
                     <span class="date-label">🚀 Training Starts From</span>
-                    <div class="date-main">29 January 2026</div>
+                    <div class="date-main">10 July 2026</div>
                 </div>
             </div>
         </div>
@@ -762,7 +762,7 @@ public class App {
             <div class="stats-grid">
                 <div class="stat-card">
                     <div class="stat-icon"><i class="fas fa-calendar-check"></i></div>
-                    <div class="stat-number">35-40</div>
+                    <div class="stat-number">45</div>
                     <p>Days Live Training</p>
                 </div>
                 <div class="stat-card">
@@ -858,7 +858,7 @@ public class App {
                 Join the most comprehensive GitHub Actions & Kubernetes training program. 
                 Transform your skills with hands-on projects and industry-relevant curriculum.
             </p>
-            <a href="https://forms.gle/D5dib9DFsfSN4Koy7" target="_blank" class="cta-button">
+            <a href="https://forms.gle/xxxx" target="_blank" class="cta-button">
                 <i class="fas fa-rocket"></i>
                 Reserve Your Seat Now
             </a>
@@ -871,7 +871,7 @@ public class App {
                 <span>Scan to Register Instantly</span>
             </div>
             <div class="qr-container">
-                <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://forms.gle/D5dib9DFsfSN4Koy7&format=svg&color=0b132b&bgcolor=ffffff&qzone=2" 
+                <img src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://forms.gle/xxxx&format=svg&color=0b132b&bgcolor=ffffff&qzone=2" 
                      alt="Registration QR Code"
                      style="width: 220px; height: 220px;">
             </div>
@@ -886,8 +886,8 @@ public class App {
                 </div>
                 <div class="contact-title">Email Us</div>
                 <div class="contact-info">
-                    <a href="mailto:learnwithkastro@gmail.com" class="contact-link">
-                        learnwithkastro@gmail.com
+                    <a href="mailto:anandsvn2001@gmail.com" class="contact-link">
+                        anandsvn2001@gmail.com
                     </a>
                 </div>
             </div>
@@ -898,44 +898,17 @@ public class App {
                 </div>
                 <div class="contact-title">Call Us</div>
                 <div class="contact-info">
-                    <a href="tel:+919700712459" class="contact-link">
-                        +91 97007 12459
+                    <a href="tel:+919340332929" class="contact-link">
+                        +91 9340332929
                     </a>
                 </div>
-            </div>
-            
-            <div class="contact-card">
-                <div class="contact-icon website-icon">
-                    <i class="fas fa-globe"></i>
-                </div>
-                <div class="contact-title">Website</div>
-                <div class="contact-info">
-                    <a href="https://www.learnwithkastro.com" target="_blank" class="contact-link">
-                        www.learnwithkastro.com
-                    </a>
-                </div>
-            </div>
-            
-            <div class="contact-card youtube-card">
-                <div class="contact-icon youtube-icon">
-                    <i class="fab fa-youtube"></i>
-                </div>
-                <div class="contact-title">YouTube Channel</div>
-                <div class="contact-info">
-                    <a href="https://www.youtube.com/@LearnWithKASTRO" target="_blank" class="contact-link youtube-link">
-                        @LearnWithKASTRO
-                    </a>
-                    <div style="margin-top: 10px; font-size: 0.9rem; opacity: 0.8;">
-                        Watch tutorials & demos
-                    </div>
-                </div>
-            </div>
+            </div></div>
         </div>
         
         <div class="copyright">
-            <p>© 2026 Learn With Kastro. All rights reserved.</p>
+            <p>© 2026 Learn With DevOps Academy. All rights reserved.</p>
             <p style="margin-top: 10px; font-size: 0.95rem;">
-                Transform Your DevOps Career with Expert-Led Training
+                Build Your DevOps Career with Industry-Ready Training
             </p>
         </div>
     </footer>
