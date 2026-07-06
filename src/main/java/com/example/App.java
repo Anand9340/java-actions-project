@@ -17,7 +17,7 @@ public class App {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn With DevOps Academy | GitHub Actions + Kubernetes Masterclass Masterclass</title>
+    <title>Learn With DevOps Academy | GitHub Actions + Kubernetes Masterclass</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * { 
@@ -858,12 +858,12 @@ public class App {
                 Join the most comprehensive GitHub Actions & Kubernetes training program. 
                 Transform your skills with hands-on projects and industry-relevant curriculum.
             </p>
-            <a href="https://forms.gle/xxxx" target="_blank" class="cta-button">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTQQv73fqKf4_wPjoAAhV1imvTwgOfR--TydqkJU_UMsMRSw/viewform?usp=publish_editor" target="_blank" class="cta-button">
                 <i class="fas fa-rocket"></i>
                 Reserve Your Seat Now
             </a>
         </section>
-
+            
         <!-- QR -->
         <section class="qr-section">
             <div class="qr-text">
